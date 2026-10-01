@@ -30,4 +30,4 @@ YYYY-MM-DD - Event - Title.pdf
 - `Event`: name of the conference, meetup, or user group.
 - `Title`: title of the talk.
 
-A few older files had no year in their original name; those were dated based on their topic/context and are flagged in the respective year's `README.md` as best-effort guesses.
+A few older files had no year in their original name. Their dates were verified from each PDF's embedded metadata (creation date) and, where possible, the slide content itself, and have been placed accordingly.
